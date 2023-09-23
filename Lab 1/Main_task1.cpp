@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿#include <Windows.h>
+#include <iostream>
 #include <string>
 using namespace std;
 
@@ -66,7 +67,9 @@ static void WritePersonData(const string& name, const string& height, const stri
 
 void main()
 {
-	setlocale(LC_ALL, "rus");
+	SetConsoleCP(1251);// установка кодовой страницы win-cp 1251 в поток ввода
+	SetConsoleOutputCP(1251); // установка кодовой страницы win-cp 1251 в поток вывода
+	//setlocale(LC_ALL, "");
 	unsigned short weight_var;
 	unsigned short &weight =  weight_var;
 	unsigned short age = ReadPersonAge();
