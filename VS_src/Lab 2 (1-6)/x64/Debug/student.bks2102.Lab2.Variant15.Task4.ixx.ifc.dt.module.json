@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\roman\\desktop\\мтуси\\3 курс\\разработка безопасного по\\lab 2 (1-6)\\lab 2 4\\student.bks2102.lab2.variant15.task4.ixx",
+        "ProvidedModule": "student.bks2102.Lab2.Variant15.Task4",
+        "ImportedModules": [
+            "student.bks2102.Lab2.Variant15.Task4:f1",
+            "student.bks2102.Lab2.Variant15.Task4:f2",
+            "student.bks2102.Lab2.Variant15.Task4:f3",
+            "student.bks2102.Lab2.Variant15.Task4:f4",
+            "student.bks2102.Lab2.Variant15.Task4:a"
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\roman\\desktop\\мтуси\\3 курс\\разработка безопасного по\\lab 2 6\\lab 2 4\\student.bks2102.lab2.variant15.task4.ixx",
+        "ProvidedModule": "student.bks2102.Lab2.Variant15.Task4",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "student.bks2102.Lab2.Variant15.Task4:f1",
+                "BMI": "C:\\Users\\Roman\\Desktop\\МТУСИ\\3 курс\\Разработка безопасного ПО\\Lab 2 6\\x64\\Debug\\declaration f1.ixx.ifc.dt"
+            },
+            {
+                "Name": "student.bks2102.Lab2.Variant15.Task4:f2",
+                "BMI": "C:\\Users\\Roman\\Desktop\\МТУСИ\\3 курс\\Разработка безопасного ПО\\Lab 2 6\\x64\\Debug\\declaration f2.ixx.ifc.dt"
+            },
+            {
+                "Name": "student.bks2102.Lab2.Variant15.Task4:f3",
+                "BMI": "C:\\Users\\Roman\\Desktop\\МТУСИ\\3 курс\\Разработка безопасного ПО\\Lab 2 6\\x64\\Debug\\declaration f3.ixx.ifc.dt"
+            },
+            {
+                "Name": "student.bks2102.Lab2.Variant15.Task4:f4",
+                "BMI": "C:\\Users\\Roman\\Desktop\\МТУСИ\\3 курс\\Разработка безопасного ПО\\Lab 2 6\\x64\\Debug\\declaration f4.ixx.ifc.dt"
+            },
+            {
+                "Name": "student.bks2102.Lab2.Variant15.Task4:a",
+                "BMI": "C:\\Users\\Roman\\Desktop\\МТУСИ\\3 курс\\Разработка безопасного ПО\\Lab 2 6\\x64\\Debug\\declaration a.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}
