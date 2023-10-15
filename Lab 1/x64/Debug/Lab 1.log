@@ -1,3 +1,0 @@
-﻿  Main.cpp
-C:\Users\Roman\Desktop\МТУСИ\3 курс\Разработка безопасного ПО\Lab 1\Main.cpp(20,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Lab 1.vcxproj -> C:\Users\Roman\Desktop\МТУСИ\3 курс\Разработка безопасного ПО\Lab 1\x64\Debug\Lab 1.exe
