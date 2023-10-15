@@ -1,0 +1,4 @@
+﻿  Scanning sources for module dependencies...
+  function f4.cpp
+C:\Users\Roman\Desktop\МТУСИ\3 курс\Разработка безопасного ПО\Lab 2 3\function f4.cpp(2,44): warning C5201: a module declaration can appear only at the start of a translation unit unless a global module fragment is used
+  Lab 2 3.vcxproj -> C:\Users\Roman\Desktop\МТУСИ\3 курс\Разработка безопасного ПО\Lab 2 3\x64\Debug\Lab 2 3.exe
