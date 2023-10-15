@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\declaration f1.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Roman\\Desktop\\МТУСИ\\3 курс\\Разработка безопасного ПО\\Lab 2 6\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Roman\\Desktop\\МТУСИ\\3 курс\\Разработка безопасного ПО\\Lab 2 6\\x64\\Debug\\declaration f1.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "student.bks2102.Lab2.Variant15.Task4:f1",
+                    "source-path": "c:\\users\\roman\\desktop\\мтуси\\3 курс\\разработка безопасного по\\lab 2 6\\lab 2 4\\declaration f1.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
